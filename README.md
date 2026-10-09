@@ -8,11 +8,10 @@ A compact Kotlin + Jetpack Compose assignment starter with Login, Course Dashboa
 - Android SDK 35
 
 ## Run
-1. Unzip this project.
-2. Open Android Studio → **Open** → select the `LearningDashboard` folder (the folder containing `settings.gradle.kts`).
-3. Allow Gradle sync to finish. If prompted, install Android SDK Platform 35 and Build Tools.
-4. Create an emulator in **Device Manager** (for example, a Pixel device with API 35), or connect an Android phone with USB debugging enabled.
-5. Press **Run ▶** with the `app` configuration selected.
+1. Open Android Studio → **Open** → select the `LearningDashboard` folder (the folder containing `settings.gradle.kts`).
+2. Allow Gradle sync to finish. If prompted, install Android SDK Platform 35 and Build Tools.
+3. Create an emulator in **Device Manager** (for example, a Pixel device with API 35), or connect an Android phone with USB debugging enabled.
+4. Press **Run ▶** with the `app` configuration selected.
 
 Login is intentionally mocked: enter any valid-looking email and a password of at least 6 characters.
 
